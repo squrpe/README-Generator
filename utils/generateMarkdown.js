@@ -30,11 +30,31 @@ This project is licensed under the ${license} license.`
   return '';
 }
 
+function renderCreditsLink(credits) {
+  if (credits != '') {
+    return `- [Credits](#credits)`;
+  }
+
+  return '';
+}
+
+function renderCreditsSection(credits) {
+  if (credits != '') {
+    return `## Credits
+${credits}.`
+  }
+
+  return '';
+}
+
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
 
   ${renderLicenseBadge(data.licensing)}
+
+  ## Description
+  ${data.description}
 
   ## Table of Contents 
   - [Description](#description)
@@ -42,23 +62,23 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Testing](#testing)
+  ${renderCreditsLink(data.credits)}
   ${renderLicenseLink(data.licensing)}
   - [Questions](#questions)
 
-  ## Description:
-  ${data.description}
-
-  ## Installation:
+  ## Installation
   ${data.installation}
 
-  ## Usage:
+  ## Usage
   ${data.usage}
 
-  ## Contribution:
+  ## Contribution
   ${data.contribution}
 
-  ## Testing:
+  ## Testing
   ${data.testing}
+
+  ${renderCreditsSection(data.credits)}
 
   ${renderLicenseSection(data.licensing)}
 

@@ -1,6 +1,9 @@
-# Test ReadMe
+# Test README File
 
-   ![Github license](https://img.shields.io/badge/license-MPL_2.0-blue)
+   ![Github license](https://img.shields.io/badge/License-MIT-blue)
+
+  ## Description:
+  This is a test README :)
 
   ## Table of Contents 
   - [Description](#description)
@@ -8,26 +11,27 @@
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Testing](#testing)
+  - [Credits](#credits)
   - [Licensing](#licensing)
   - [Questions](#questions)
 
-  ## Description:
-  This is a test file for the README Generator.
-
-  ## Installation:
+  ## Installation
   via Github
 
-  ## Usage:
-  via the command line
+  ## Usage
+  via The command line
 
-  ## Contribution:
-  People should contribute by pulling this project to their personal repos
+  ## Contribution
+  Pull the repo to their personal devices
 
-  ## Testing:
-  via any type of testing which is suitable for the user. For example, unit testing
+  ## Testing
+  Explicit instructions on how to run all necessary tests
+
+  ## Credits
+  Credit to squrpe.
 
   ## Licensing
-This project is licensed under the Mozilla-Public license.
+  This project is licensed under the MIT license.
 
   ## Questions:
   If you have any questions, contact me here:
@@ -35,3 +39,5 @@ This project is licensed under the Mozilla-Public license.
 
   And if you want to see my additonal work, check out my Github:
   - Github: [squrpe](https://github.com/squrpe)
+
+

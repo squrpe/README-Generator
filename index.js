@@ -82,19 +82,26 @@ const questions = [
         }
     },
 
-    // Test Instructions 
+    // Testing Instructions
     {
         type: 'input',
         name: 'testing',
-        message: 'How do you test this project?',
+        message: 'How should one test the usage of such project?',
         validate: testingInput => {
             if (testingInput) {
                 return true;
             } else {
-                console.log('You need to describe how to test this project!');
+                console.log('You need to provide information on how to use testing on said project!');
                 return false;
             }
         }
+    },
+
+    // Credits 
+    {
+        type: 'input',
+        name: 'credits',
+        message: 'Do you need to credit any other creators/websites? If so, do that here, otherwise press enter:',
     },
 
     // License Options
