@@ -29,9 +29,10 @@
   You will need to download the suitable extensions to run the application in the command line.
   
   2. Install the node modules needed for the project within the terminal
-  ```md
-  npm install
-  ```
+      ```md
+          npm install
+      ```
+
 
   You will need to download the suitable extensions for Javascript and Node.js to run the application in the command line.
 
