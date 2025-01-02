@@ -25,8 +25,8 @@
       ```md
           git clone https://github.com/squrpe/README-Generator.git
       ```
-  2. You may get prompted to input you github details, thus do so. Otherwise, the project will now be succesfully installed onto your device.
-  3. Install the node modules needed for the project within the terminal
+You will need to download the suitable extensions to run the application in the command line.
+  2. Install the node modules needed for the project within the terminal
       ```md
           npm install
       ```
