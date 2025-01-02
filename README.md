@@ -50,9 +50,7 @@
   
   Lara Nicole - [grockelara@gmail.com](grockelara@gmail.com)
   
-  Project Link - https://github.com/squrpe/weatherdashboard
-  
-  Project Deployment - https://squrpe.github.io/weatherdashboard/
+  Project Link - https://github.com/squrpe/README-Generator
   
   ## License
   
