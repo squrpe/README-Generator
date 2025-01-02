@@ -33,9 +33,6 @@
           npm install
       ```
 
-
-  You will need to download the suitable extensions for Javascript and Node.js to run the application in the command line.
-
   ## Usage
   Using node.js via the command line to prompt the main file, index.js to start running.
 
