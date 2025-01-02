@@ -25,7 +25,9 @@
       ```md
           git clone https://github.com/squrpe/README-Generator.git
       ```
+      
   You will need to download the suitable extensions to run the application in the command line.
+  
   2. Install the node modules needed for the project within the terminal
   ```md
   npm install
