@@ -48,9 +48,11 @@
 
   ## Contact
   
-  Lara Nicole - [grockelara@gmail.com](grockelara@gmail.com)
+  Lara Grocke - [grockelara@gmail.com](grockelara@gmail.com)
   
   Project Link - https://github.com/squrpe/README-Generator
+
+  LinkedIn - https://www.linkedin.com/in/laragrocke001
   
   ## License
   
